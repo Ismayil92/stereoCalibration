@@ -1,0 +1,6 @@
+/home/jetson-ismayil/Embedded-Projects/Camera_Calibration/build/CMakeFiles/rebuild_cache.dir
+/home/jetson-ismayil/Embedded-Projects/Camera_Calibration/build/CMakeFiles/edit_cache.dir
+/home/jetson-ismayil/Embedded-Projects/Camera_Calibration/build/CMakeFiles/calibration_LIBRARY.dir
+/home/jetson-ismayil/Embedded-Projects/Camera_Calibration/build/CMakeFiles/calibrate_camera.dir
+/home/jetson-ismayil/Embedded-Projects/Camera_Calibration/build/CMakeFiles/calibration_LIBRARY_autogen.dir
+/home/jetson-ismayil/Embedded-Projects/Camera_Calibration/build/CMakeFiles/calibrate_camera_autogen.dir

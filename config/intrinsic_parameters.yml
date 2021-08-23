@@ -1,0 +1,26 @@
+%YAML:1.0
+---
+Left Camera Matrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 7.6347060990639511e+02, 0., 3.0581416517432626e+02, 0.,
+       1.0204763214416158e+03, 2.3129435320576474e+02, 0., 0., 1. ]
+Left Distorting Coeffs: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -6.3783457876433886e-02, 5.7514357586137066e-01, 0., 0.,
+       -1.3401432192004386e+00 ]
+Right Camera Matrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 7.6347060990639511e+02, 0., 3.2041771489770412e+02, 0.,
+       1.0204763214416158e+03, 2.3138873783188239e+02, 0., 0., 1. ]
+Right Distorting Coeffs: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -7.6614416710671193e-02, 2.7784743048361976e-01, 0., 0.,
+       2.0436903207108621e+00 ]

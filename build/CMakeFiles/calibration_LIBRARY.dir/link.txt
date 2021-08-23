@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcalibration_LIBRARY.a  CMakeFiles/calibration_LIBRARY.dir/src/calibration_window.cpp.o CMakeFiles/calibration_LIBRARY.dir/src/camera_config.cpp.o CMakeFiles/calibration_LIBRARY.dir/calibration_LIBRARY_autogen/mocs_compilation.cpp.o
+/usr/bin/ranlib libcalibration_LIBRARY.a
